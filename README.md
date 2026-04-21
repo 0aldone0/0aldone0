@@ -1,16 +1,55 @@
-# 💫 About Me:
-🔭 I'm currently working on developing DLL drivers for amplifiers, signal generators, and other specialized devices, enabling easy integration and usage of their functions.<br><br>👯 I'm looking to collaborate on projects that involve hardware-software integration or automation of device communication.<br><br>🤝 I'm looking for help with improving cross-platform compatibility and optimizing performance for hardware communication libraries.<br><br>🌱 I'm currently learning more about low-level driver development and exploring how to streamline the integration of external devices in software systems.<br><br>💬 Ask me about DLL development, device communication, or any challenges related to hardware and software integration.<br><br>⚡  Fun fact: My hobby? Turning mundane objects into smart devices that can be controlled via my phone!
+# Hi, I'm Aldo 👋
 
+I build DLL drivers for hardware devices — amplifiers, signal generators, GPIB adapters,
+serial controllers — enabling clean software integration with specialized instruments.
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=flat&logo=node-red&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat&logo=InfluxDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=flat&logo=home-assistant&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=flat&logo=eclipsemosquitto&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi)
+## 🔭 What I'm working on
+- Driver DLLs for RF amplifiers, signal generators, and IO controllers
+- Event-driven serial communication (Arduino, RS-232)
+- Hardware–software integration for measurement automation
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=0aldone0&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=0aldone0&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=0aldone0&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+## 💬 Ask me about
+DLL development · SCPI device communication · Hardware automation · Home automation with Arduino & Raspberry Pi
+
+## ⚡ Fun fact
+My hobby? Turning mundane objects into smart devices I can control from my phone.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=0aldone0&icon=5&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💻 Tech Stack
+
+**Languages & Frameworks**
+
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
+![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=flat&logo=node-red&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
+
+**Databases & Monitoring**
+
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat&logo=InfluxDB&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800?style=flat&logo=grafana&logoColor=white)
+
+**Hardware & IoT**
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white)
+![Home Assistant](https://img.shields.io/badge/Home%20Assistant-41BDF5?style=flat&logo=home-assistant&logoColor=white)
+![Mosquitto](https://img.shields.io/badge/MQTT%20Mosquitto-3C5280?style=flat&logo=eclipse-mosquitto&logoColor=white)
+
+**Tools & Platforms**
+
+![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=flat&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000?style=flat&logo=notion&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0aldone0&theme=dark&hide_border=true&show_icons=true&include_all_commits=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=0aldone0&theme=dark&hide_border=true)
